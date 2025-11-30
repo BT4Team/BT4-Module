@@ -1,4 +1,4 @@
-# New Update v9.8
+# New Update v10.0
 - Fixed issue with module compatibility.
 - Improved performance.
 - Minor bug fixes.
